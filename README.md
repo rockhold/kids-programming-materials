@@ -10,3 +10,6 @@ A repo for hosting some content I've created for teaching kids about programming
 
 # HTML Basics
 Slides for learning about the basics of HTML can be viewed [here](http://bit.ly/2sLGGNz). To recreate the example web page on your local computer, just [download these files](https://github.com/rockhold/kids-programming-materials/archive/master.zip) and open the `index.html` file in a browser (such as Google Chrome, Firefox, Safari, or Internet Explorer). At this point, we will have only really covered the HTML portion of the content, so the files in the `css` and `js` folders can be ignored for now.
+
+# Programming with JavaScript
+Slides for learning about the basics of programming with JavaScript can be viewed [here](https://docs.google.com/presentation/d/1v4qpImJU4RpUrvaYhlWzoGx1H-kP8bnbMdrHeBtVgX4/edit?usp=sharing). One of the easiest ways to get started with JavaScript is to just type some code into your browser and run it from there. Instructions on how to do this for various browsers can be found at https://debugbrowser.com.
